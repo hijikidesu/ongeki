@@ -11,7 +11,19 @@
     flex-direction: column; /* 縦に整列 */
 }
 
-{
+.MarbleBlue1{
+            display: flex; /* フレックスボックスを使用 */
+            justify-content: space-around; /* 画像を均等に配置 */
+            align-items: center; /* 垂直方向の中央揃え */
+        }
+
+.MarbleBlue2{
+            display: flex; /* フレックスボックスを使用 */
+            justify-content: space-around; /* 画像を均等に配置 */
+            align-items: center; /* 垂直方向の中央揃え */
+        }
+
+ .MarbleBlue3{
             display: flex; /* フレックスボックスを使用 */
             justify-content: space-around; /* 画像を均等に配置 */
             align-items: center; /* 垂直方向の中央揃え */
