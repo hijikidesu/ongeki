@@ -1,0 +1,12 @@
+
+        .header {
+            display: flex;
+            align-items: center; /* 垂直方向の中央揃え */
+        }
+        .header img {
+            margin-right: 10px; /* ロゴとテキストの間隔 */
+        }
+
+        li {
+            margin-bottom: 10px; /* 各リスト項目の間隔 */
+        }
