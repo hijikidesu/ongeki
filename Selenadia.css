@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    align-items: center; /* 垂直方向の中央揃え */
+}
+.header img {
+    margin-right: 10px; /* ロゴとテキストの間隔 */
+}
+
+.titletext{
+    display: flex;
+    flex-direction: column; /* 縦に整列 */
+}
