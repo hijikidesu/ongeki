@@ -11,35 +11,4 @@
     flex-direction: column; /* 縦に整列 */
 }
 
-.MarbleBlue1{
-            display: flex; /* フレックスボックスを使用 */
-    justify-content: space-around; /* 画像を均等に配置 */
-            align-items: center; /* 垂直方向の中央揃え */
-        }
 
-.MarbleBlue1 img{
-     max-width: 100%; /* 実際の幅に対して最大幅を指定 */
-            height: auto; /* 高さは自動調整 */
-}
-
-.MarbleBlue2{
-            display: flex; /* フレックスボックスを使用 */
-            justify-content: space-around; /* 画像を均等に配置 */
-            align-items: center; /* 垂直方向の中央揃え */
-        }
-
-.MarbleBlue2 img{
-     max-width: 100%; /* 実際の幅に対して最大幅を指定 */
-            height: auto; /* 高さは自動調整 */
-}
-
- .MarbleBlue3{
-            display: flex; /* フレックスボックスを使用 */
-            justify-content: space-around; /* 画像を均等に配置 */
-            align-items: center; /* 垂直方向の中央揃え */
-        }
-
-.MarbleBlue3 img{
-     max-width: 100%; /* 実際の幅に対して最大幅を指定 */
-            height: auto; /* 高さは自動調整 */
-}
